@@ -1,2 +1,2 @@
 # Individuals Income Predictor
- Predicts an persons income using python machine learning
+ Predicts peoples future income using python machine learning
